@@ -72,6 +72,34 @@ The SkillBridge Power BI Dashboard provides real-time insights into skill gaps, 
 -  **Job Insights** – Tracks jobs viewed and applied for, helping understand user engagement.
 -  **Personalized Filters** – Use slicers to view data per user for one-on-one guidance.
 -  **Missing Skills Visualization** – Pie and bar charts highlight the most needed skills across users.
+- ![image](https://github.com/user-attachments/assets/70df4966-1c84-4038-8816-0d8027c3b056)
+
+## Contributing
+
+We welcome contributions from team members and collaborators!
+
+If you'd like to improve this project, feel free to:
+
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Submit a pull request (PR)
+
+For major changes, please open an issue first to discuss your ideas.
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+That means it’s open to the public — anyone can view, use, modify, and share the project for personal or academic use.
+## Acknowledgements
+
+We would like to thank our professor for guiding us through this project.
+
+Special thanks to:
+- Our team members for their support and collaboration
+- Power BI, Visual studio and Git for the tools used to build this project
+
+
    
 
 
