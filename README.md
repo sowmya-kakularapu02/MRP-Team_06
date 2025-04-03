@@ -12,7 +12,7 @@ SkillBridge is built as part of the **IS-5960 Master’s Research Project** at *
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Power BI Dashboard](#power-bi-dashboard)
+- [power-bi-dashboard](#power-bi-dashboard)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
