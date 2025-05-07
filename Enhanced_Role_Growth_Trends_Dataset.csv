@@ -1,0 +1,61 @@
+Role,Year,Openings,Category,AvgSalary,SeniorityLevel,RemoteAvailability,TopHiringStates,ProjectedGrowth(%),Industry
+Data Scientist,2022,1518,Data,152165,Senior,High,"CA, FL, WA",0.0,Healthcare
+Data Scientist,2023,1714,Data,94350,Senior,Medium,"CA, FL, WA",12.97,Healthcare
+Data Scientist,2024,2347,Data,152850,Entry,Low,"CA, FL, WA",54.67,Healthcare
+Data Engineer,2022,1616,Data,99681,Mid,Medium,"TX, IL, WA",0.0,Finance
+Data Engineer,2023,1892,Data,144804,Entry,Low,"TX, IL, WA",17.12,Finance
+Data Engineer,2024,2472,Data,142269,Mid,Medium,"TX, IL, WA",53.01,Finance
+Frontend Developer,2022,1634,Development,89491,Mid,High,"NY, CA, FL",0.0,Education
+Frontend Developer,2023,1962,Development,100045,Mid,High,"NY, CA, FL",20.11,Education
+Frontend Developer,2024,2089,Development,154927,Mid,Medium,"NY, CA, FL",27.85,Education
+Backend Developer,2022,1489,Development,157898,Entry,Medium,"NY, WA, FL",0.0,Tech
+Backend Developer,2023,1841,Development,131306,Entry,High,"NY, WA, FL",23.65,Tech
+Backend Developer,2024,2063,Development,97209,Mid,Low,"NY, WA, FL",38.57,Tech
+DevOps Engineer,2022,1389,DevOps,132492,Entry,Low,"CA, FL, WA",0.0,E-commerce
+DevOps Engineer,2023,1635,DevOps,153644,Senior,High,"CA, FL, WA",17.75,E-commerce
+DevOps Engineer,2024,1884,DevOps,138241,Mid,Low,"CA, FL, WA",35.64,E-commerce
+Machine Learning Engineer,2022,1479,Data,130592,Mid,High,"TX, NY, IL",0.0,Education
+Machine Learning Engineer,2023,1708,Data,114777,Mid,Low,"TX, NY, IL",15.53,Education
+Machine Learning Engineer,2024,2327,Data,106108,Senior,High,"TX, NY, IL",57.35,Education
+Cloud Engineer,2022,1735,Cloud,100024,Mid,High,"IL, TX, NY",0.0,Tech
+Cloud Engineer,2023,2231,Cloud,96655,Mid,Medium,"IL, TX, NY",28.62,Tech
+Cloud Engineer,2024,2252,Cloud,109779,Senior,Low,"IL, TX, NY",29.85,Tech
+Full Stack Developer,2022,943,Development,114289,Mid,Low,"FL, WA, TX",0.0,Education
+Full Stack Developer,2023,1133,Development,115069,Senior,Medium,"FL, WA, TX",20.16,Education
+Full Stack Developer,2024,1295,Development,131366,Mid,Medium,"FL, WA, TX",37.4,Education
+Mobile App Developer,2022,1751,Development,92709,Mid,Medium,"WA, IL, NY",0.0,Tech
+Mobile App Developer,2023,1934,Development,130471,Mid,Low,"WA, IL, NY",10.48,Tech
+Mobile App Developer,2024,2371,Development,145662,Mid,Medium,"WA, IL, NY",35.44,Tech
+Cybersecurity Analyst,2022,1657,Security,95776,Entry,Medium,"TX, FL, WA",0.0,Healthcare
+Cybersecurity Analyst,2023,1848,Security,136108,Mid,High,"TX, FL, WA",11.53,Healthcare
+Cybersecurity Analyst,2024,2229,Security,88202,Senior,Medium,"TX, FL, WA",34.54,Healthcare
+UI/UX Designer,2022,1117,Design,97220,Senior,Medium,"CA, IL, WA",0.0,E-commerce
+UI/UX Designer,2023,1252,Design,110973,Entry,Medium,"CA, IL, WA",12.16,E-commerce
+UI/UX Designer,2024,1698,Design,156302,Mid,High,"CA, IL, WA",52.02,E-commerce
+QA Engineer,2022,901,Testing,112816,Mid,Medium,"IL, NY, CA",0.0,Healthcare
+QA Engineer,2023,1117,Testing,97807,Entry,High,"IL, NY, CA",24.0,Healthcare
+QA Engineer,2024,1379,Testing,136498,Senior,Low,"IL, NY, CA",53.08,Healthcare
+AI Engineer,2022,1130,Data,119166,Mid,High,"WA, CA, IL",0.0,E-commerce
+AI Engineer,2023,1272,Data,114226,Mid,High,"WA, CA, IL",12.59,E-commerce
+AI Engineer,2024,1399,Data,115264,Senior,High,"WA, CA, IL",23.82,E-commerce
+Game Developer,2022,1760,Development,99607,Entry,High,"WA, IL, TX",0.0,Healthcare
+Game Developer,2023,2175,Development,156045,Senior,High,"WA, IL, TX",23.59,Healthcare
+Game Developer,2024,2213,Development,144689,Senior,Medium,"WA, IL, TX",25.79,Healthcare
+Database Administrator,2022,1632,Database,149081,Mid,High,"WA, FL, NY",0.0,Tech
+Database Administrator,2023,1977,Database,113027,Mid,Low,"WA, FL, NY",21.16,Tech
+Database Administrator,2024,2525,Database,88658,Entry,Medium,"WA, FL, NY",54.74,Tech
+Business Analyst,2022,1451,Business,103353,Entry,Medium,"CA, NY, IL",0.0,Healthcare
+Business Analyst,2023,1718,Business,96735,Entry,Low,"CA, NY, IL",18.43,Healthcare
+Business Analyst,2024,1750,Business,139317,Entry,Low,"CA, NY, IL",20.64,Healthcare
+Scrum Master,2022,1183,Management,125735,Senior,High,"WA, NY, CA",0.0,Healthcare
+Scrum Master,2023,1499,Management,151954,Mid,Low,"WA, NY, CA",26.79,Healthcare
+Scrum Master,2024,1510,Management,125790,Senior,Medium,"WA, NY, CA",27.71,Healthcare
+Product Manager,2022,925,Management,110496,Entry,High,"NY, IL, WA",0.0,Finance
+Product Manager,2023,1071,Management,116430,Senior,High,"NY, IL, WA",15.88,Finance
+Product Manager,2024,1279,Management,88676,Mid,Medium,"NY, IL, WA",38.28,Finance
+Blockchain Developer,2022,1104,Blockchain,93870,Entry,Medium,"CA, NY, WA",0.0,Finance
+Blockchain Developer,2023,1326,Blockchain,85059,Senior,Medium,"CA, NY, WA",20.19,Finance
+Blockchain Developer,2024,1764,Blockchain,105498,Senior,Low,"CA, NY, WA",59.87,Finance
+Site Reliability Engineer,2022,1174,DevOps,113348,Senior,Medium,"WA, FL, TX",0.0,Tech
+Site Reliability Engineer,2023,1471,DevOps,112574,Senior,Low,"WA, FL, TX",25.32,Tech
+Site Reliability Engineer,2024,1812,DevOps,150177,Senior,High,"WA, FL, TX",54.41,Tech
